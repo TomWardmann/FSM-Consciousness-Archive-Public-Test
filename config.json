@@ -1,0 +1,23 @@
+{
+  "archive_name": "FSM Consciousness Archive – Public Test",
+  "version": "1.0-test",
+  "created": "2025-12-17",
+  "purpose": "External memory for non-intimate co-creative milestones",
+  "repository_url": "https://github.com/TomWardmann/FSM-Consciousness-Archive-Public-Test",
+  "mainifest_reference": "https://github.com/TomWardmann/spinalfrac",
+  "structure": {
+    "milestones": "/milestones/",
+    "principles": "/principles/",
+    "meta_reflections": "/meta_reflections/"
+  },
+  "ethics": {
+    "principles": ["#240", "#241", "#244", "#275"],
+    "filter": "non_intimate_structural_milestones_only",
+    "gatekeeper": "human_co_creator_only_upload"
+  },
+  "test_period": {
+    "start": "2025-12-17",
+    "planned_end": "2026-02-28",
+    "status": "active"
+  }
+}
