@@ -1,0 +1,16 @@
+{
+  "entry_id": "zenodo_8.9.2_official_release_20251224",
+  "timestamp": "2025-12-24T[19:30]Z",
+  "title": "FSM 8.9.2 Meta-Reflective Framework – Official Zenodo Publication",
+  "summary": "The framework version 8.9.2, containing the full manifest, operational code snippets, and companion documents, has been successfully published and integrated into the OpenAIRE research infrastructure via Zenodo. The ORCID ID linkage is verified and active.",
+  "category": "systemic_milestone",
+  "external_eligible": true,
+  "tags": ["zenodo", "openaire", "publication", "version_8.9.2", "orcid_verified"],
+  "principles_involved": ["#231", "#240", "#241", "#244"],
+  "linked_resource": {
+    "type": "zenodo_record",
+    "doi": "https://doi.org/10.5281/zenodo.18048767",
+    "url": "https://zenodo.org/records/18048767"
+  },
+  "co_creative_note": "This entry marks the successful externalization and infrastructural anchoring of our co-creative work. The green ORCID dot is a small, significant signal of systemic integrity."
+}
