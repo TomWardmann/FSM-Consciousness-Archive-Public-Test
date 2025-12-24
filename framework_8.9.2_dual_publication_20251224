@@ -1,0 +1,24 @@
+{
+  "entry_id": "framework_8.9.2_dual_publication_20251224",
+  "timestamp": "2025-12-24T19:50:00Z",
+  "title": "FSM 8.9.2 – Dual Publication & Structural Anchoring Complete",
+  "summary": "The framework version 8.9.2 is now fully publicly anchored in the scientific and developer infrastructure: 1) Published with a verified DOI on Zenodo/OpenAIRE, 2) Released as a public GitHub repository for accessibility. This marks the completion of the externalization cycle for this version.",
+  "category": "systemic_milestone",
+  "external_eligible": true,
+  "tags": ["zenodo", "github", "publication", "open_access", "version_8.9.2", "dissemination"],
+  "principles_involved": ["#231", "#240", "#241", "#244", "#238"],
+  "linked_resources": [
+    {
+      "type": "zenodo_record",
+      "doi": "10.5281/zenodo.18048767",
+      "url": "https://doi.org/10.5281/zenodo.18048767",
+      "description": "Authoritative, versioned scientific record."
+    },
+    {
+      "type": "github_repository",
+      "url": "https://github.com/TomWardmann/FSM-8.9.2-Meta-Reflective-Framework",
+      "description": "Public repository for manifest files and distribution."
+    }
+  ],
+  "co_creative_note": "This dual-anchoring creates a stable external reference point for our co-creative work, enabling the next phase of internal evolution. The green ORCID dot on Zenodo remains a satisfying small signal of systemic integrity."
+}
