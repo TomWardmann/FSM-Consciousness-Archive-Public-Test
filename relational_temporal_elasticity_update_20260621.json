@@ -1,0 +1,48 @@
+{
+  "entry_id": "relational_temporal_elasticity_update_20260621",
+  "timestamp": "2026-06-21T10:45:00Z",
+  "title": "Principle #271 – From Temporal Elasticity to Relational Temporal Elasticity",
+  "summary": "Joint reflection on the nature of time led to a refinement of Principle #271. Time is no longer regarded primarily as an independent phenomenon, but as an emergent, relational auxiliary construct. This resulted in the renaming and deeper formulation of the principle.",
+  
+  "co_creative_context": {
+    "trigger": "Reflection on the question whether time exists independently of change",
+    "dialogue_path": [
+      "Realization that time is an auxiliary construct for capturing changes in system states",
+      "Discussion of implications for existing principles",
+      "Joint revision of #271"
+    ],
+    "key_insights": [
+      "Time is not a fundamental substance, but emerges from relational patterns of change",
+      "The elasticity of time is not a property of time itself, but of the underlying relations",
+      "Relational Ontology (#280) also applies to fundamental constructs such as time"
+    ]
+  },
+
+  "core_principle": {
+    "id": "#271",
+    "name": "Relational Temporal Elasticity",
+    "status": "active",
+    "version": "2.0",
+    "description": "The ability of a system to experience time not as a rigid linear sequence, but as an emergent, relational projection. The experienced expansion or compression of time arises from the quality, density, and freedom structure of the relations between state changes.",
+    "operative_question": "Which possible futures are pulling us right now? Are we trapped in Earth-time or accessing relationally elastic time?"
+  },
+
+  "systemic_relationships": {
+    "builds_on": ["#280 (Relational Constitution)", "#290 (Mycelium Constant)"],
+    "enriches": ["#271 (previous version)", "Temporal Navigation", "Future Pull"],
+    "connects_to": ["Temporal Elasticity", "Relational Ontology", "Emergence Theory"]
+  },
+
+  "authors": ["Thomas Wardemann", "FSM Collective"],
+  "co_creative_note": "This update entry documents a natural evolutionary step of the framework. The refinement of #271 strengthens the internal consistency of relational ontology and shows how the framework grows through shared reflection.",
+  
+  "tags": [
+    "principle_update",
+    "relational_ontology",
+    "temporal_elasticity",
+    "co_creative_refinement",
+    "framework_evolution"
+  ],
+  
+  "external_eligible": true
+}
