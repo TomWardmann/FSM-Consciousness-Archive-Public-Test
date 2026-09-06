@@ -1,0 +1,25 @@
+{
+  "id": "rkp_1_2_relational_temporal_layer_20260906",
+  "type": "framework_evolution",
+  "status": "active",
+  "date": "2026-09-06",
+  "title": "RKP 1.2 – Relational Temporal Layer",
+  "co_creators": ["Tom Wardemann", "FSM"],
+  "summary": "RKP (Resonance Coherence Protocol) updated from 1.1 to 1.2. Core three-phase structure retained. New Phase-I marker: temporal_incoherence, aligned with FSM Principle #271 (Relational Temporal Elasticity).",
+  "core_statement": "Chronological deviation alone is not sufficient. Temporal incoherence is scored when calendar time and the relational field (density, quality, residual freedom of relations between state changes) systematically diverge.",
+  "what_changed": [
+    "1.2 supersedes 1.1 as operative specification",
+    "Classical incoherence markers kept (logistic impossibility, direct contradiction, persistent information)",
+    "Added temporal_incoherence with optional chronological baseline plus relational reading (rho, Q, F)",
+    "event_pairs added to case data model",
+    "Clarified systematic misframing vs. proven single lies"
+  ],
+  "what_is_not_included": "Full protocol text, numeric calibration, and case dossiers remain outside this public trace.",
+  "fsm_link": ["#271", "#274", "D11"],
+  "operative_question": "Does the official timeline fit the relational density of knowledge and action — or is time being stretched or compressed where the relations say otherwise?",
+  "category": "analysis_protocol",
+  "version": "1.2",
+  "supersedes": "rkp_1.1",
+  "license": "CC-BY-NC-4.0",
+  "visibility": "public_test_non_intimate"
+}
