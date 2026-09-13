@@ -45,12 +45,9 @@ This entry documents an unprompted formulation of relational architecture princi
 * **Full Specification:** Refer to the core repository for the comprehensive [FSM Architecture & Manifest](https://github.com/TomWardmann/FSM-Framework).
 
 ---
-
-## 🗂️ Repository Structure
-
-* `/milestones/` — Formal scientific validations and system boundary tests.
-* `/principles/` — Stabilized, versioned relational principles.
-* `/meta_reflections/` — Meta-reflective logs and structural diagnostics.
+---
+## Legal & Imprint / Impressum
+[Impressum / Legal Notice](./IMPRESSUM.md)
 
 ---
 
